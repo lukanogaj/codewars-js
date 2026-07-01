@@ -11,5 +11,3 @@ function grow(x) {
 	const multi = x.reduce((acc, curr) => acc * curr, 1);
 	return multi;
 }
-
-console.log(grow(arrayBeginner));

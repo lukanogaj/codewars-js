@@ -17,5 +17,3 @@ function findAverage(array) {
 	const average = sum / array.length;
 	return average;
 }
-
-console.log(findAverage(array1));

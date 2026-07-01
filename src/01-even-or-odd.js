@@ -14,5 +14,3 @@ function enough(cap, on, wait) {
 		return on + wait - cap;
 	}
 }
-
-console.log(enough(100, 60, 50));

@@ -16,5 +16,3 @@ const arr2 = [34, -345, -1, 100];
 function findSmallestInt(arr) {
 	return Math.min(...arr);
 }
-
-console.log(findSmallestInt(arr1));

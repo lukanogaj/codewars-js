@@ -28,5 +28,3 @@ function sumArrays(array) {
 	const sum = array.reduce((acc, current) => acc + current, 0);
 	return sum;
 }
-
-console.log(sumArrays([100]));

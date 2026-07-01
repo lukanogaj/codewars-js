@@ -8,5 +8,3 @@ function makeUpperCase(str) {
 	const upperCase = str.toUpperCase();
 	return upperCase;
 }
-
-console.log(makeUpperCase(str));
