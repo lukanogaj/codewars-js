@@ -5,4 +5,4 @@ const stringToNumber1 = function (str) {
 	return convertStr;
 };
 
-console.log(stringToNumber1("1234"));
+// console.log(stringToNumber1("1234"));

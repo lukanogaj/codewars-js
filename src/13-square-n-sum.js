@@ -21,4 +21,4 @@ function squareSum(numbers) {
 	return sum;
 }
 
-console.log(squareSum([1, 2, 2])); // 9
+// console.log(squareSum([1, 2, 2])); // 9
