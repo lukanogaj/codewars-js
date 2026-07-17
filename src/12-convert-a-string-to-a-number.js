@@ -18,4 +18,4 @@ const stringToNumber = function (str) {
 	return stringNumber;
 };
 
-console.log(stringToNumber("1234"));
+// console.log(stringToNumber("1234"));

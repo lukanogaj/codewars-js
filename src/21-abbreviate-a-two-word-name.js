@@ -20,7 +20,7 @@ join
 
 const str12 = "Lukasz Nogaj";
 const words = str12.split();
-console.log(words);
+// console.log(words);
 function abbrevName(name) {
 	// code away
 	const splitted = name
