@@ -19,7 +19,7 @@ function litres(time) {
 	return Math.floor(time * litres);
 }
 
-console.log(litres(3));
+// console.log(litres(3));
 // let litre = 0.5;
 // let time = 3;
 // const waterHour = Math.round(time * litre);

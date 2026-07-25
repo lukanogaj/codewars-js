@@ -18,4 +18,4 @@ function areYouPlayingBanjo(name) {
 	}
 }
 
-console.log(areYouPlayingBanjo("Lukasz"));
+// console.log(areYouPlayingBanjo("Lukasz"));

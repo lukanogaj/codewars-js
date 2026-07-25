@@ -9,4 +9,4 @@ function greet(name) {
 	return `Hello, ${name} how are you doing today?`;
 }
 
-console.log(greet("Lukasz"));
+// console.log(greet("Lukasz"));

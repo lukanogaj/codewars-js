@@ -26,4 +26,4 @@ function sumPositives(arr) {
 	}, 0);
 }
 
-console.log(sumPositives(arr));
+// console.log(sumPositives(arr));
