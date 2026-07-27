@@ -48,7 +48,7 @@ function points(games) {
 	return x;
 }
 
-console.log(points(games));
+// console.log(points(games));
 
 // Example tih strings change to number
 
