@@ -20,4 +20,4 @@ function getCount(str) {
 	return count;
 }
 
-console.log(getCount(string1));
+// console.log(getCount(string1));

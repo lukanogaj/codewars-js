@@ -31,8 +31,8 @@ const games = [
 	"3:3",
 	"3:0",
 ];
-console.log(games[0].split(" "));
-console.log(parseInt(games, 10));
+// console.log(games[0].split(" "));
+// console.log(parseInt(games, 10));
 function points(games) {
 	let x = 0;
 	const splitResult = games.map((item) => item.split(":"));
